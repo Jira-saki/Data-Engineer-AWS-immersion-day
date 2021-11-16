@@ -1,5 +1,5 @@
-# Data Engineer Pipeline Project using AWS S3 - GLUE - ATHENA - QUICKSIGHT
-The ETL pipeline is using S3 as data Lake and  AWS GLUE ETL as access datalake. Using ATHENA to query a view. Visualise with Quicksight<br/><br/>
+# Data Engineer Pipeline Project.
+The ETL pipeline is using S3 as data Lake and  AWS GLUE ETL as access datalake. Using Athena to query a view. Visualise with Quicksight<br/><br/>
 
 ## Project Background
 Data engineering immersion day Project. 
@@ -16,7 +16,7 @@ Data architecture that needs to be created:<br/><br/>
 
 ## Prerequisites
 - AWS Account
-- IAM , Resources permission setting
+- IAM resources permission policy setting for Glue, S3
 
 
 ## Getting Started

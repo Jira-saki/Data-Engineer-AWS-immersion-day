@@ -52,3 +52,6 @@ Athena Workgroups to Control Query Access and Costs.<br/>
 ### Visualization (Quicksight)
 Data visualization is created from dataset in QuickSight
 <img src="https://github.com/Jira-saki/ETL-AWS-GLUE/blob/master/image/dashboard.png"><br/><br/>
+
+# Follow Me On
+https://www.linkedin.com/in/jirasak-pakdeeto-900665214/

@@ -1,7 +1,7 @@
 # Data Engineer Pipeline Project using AWS S3 - GLUE - ATHENA - QUICKSIGHT
-The ETL pipeline is using S3 as data Lake and  AWS GLUE ETL as access datalake. Using ATHENA to query a view.<br/><br/>
+The ETL pipeline is using S3 as data Lake and  AWS GLUE ETL as access datalake. Using ATHENA to query a view. Visualise with Quicksight<br/><br/>
 
-## Porject Background
+## Project Background
 Data engineering immersion day Project. 
 The project will be completing the following tasks. Data Validation and ETL with Glue to be tables that can be queried using Amazon Athena and Visualize with Amazon Quciksight<br/><br/>
 
